@@ -6,7 +6,7 @@ This repository contains the replication dataset and classification matrix accom
 
 The paper develops a system-level taxonomy of Real-World Asset (RWA) tokenization composed of **23 attributes** organized across **five components** — Governance, Asset, Token Properties, Distributed Ledger Technology (DLT), and Economy — and applies it to the **20 largest RWA tokenization protocols** by market capitalization listed on the [DeFiLlama RWA dashboard](https://defillama.com/rwa).
 
-> **Note on xlsx format** The dataset is distributed as a single .xlsx workbook rather than individual .csv files. The primary reason is structural: the four sheets are logically interdependent, and the Classification Work sheet uses a three-row hierarchical header (Component → Attribute → Sub-Attribute) that encodes the taxonomy structure directly. Flattening to CSV would require either losing that hierarchy or reconstructing it through external documentation. The .xlsx format is readable by any major spreadsheet application, including LibreOffice and OpenOffice, without requiring a Microsoft Office subscription.
+> **Note on .xlsx format** The dataset is distributed as a single .xlsx workbook rather than individual .csv files. The primary reason is structural: the four sheets are logically interdependent, and the Classification Work sheet uses a three-row hierarchical header (Component → Attribute → Sub-Attribute) that encodes the taxonomy structure directly. Flattening to CSV would require either losing that hierarchy or reconstructing it through external documentation. The .xlsx format is readable by any major spreadsheet application, including LibreOffice and OpenOffice, without requiring a Microsoft Office subscription.
 
 ## Contents
 
