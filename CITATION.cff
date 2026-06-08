@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: >-
+  A Taxonomy of Real-World Asset Tokenization for
+  Blockchain-Based Financial Infrastructure — Dataset
+message: >-
+  If you use this dataset, please cite both the dataset and
+  the accompanying paper.
+type: dataset
+authors:
+  - given-names: Giorgio
+    family-names: Vella
+    affiliation: >-
+      School of Banking, Finance and Insurance,
+      Università Cattolica del Sacro Cuore, Milano, Italy
+    email: giorgio.vella01@icatt.it
+  - given-names: Luca
+    family-names: Pennella
+    affiliation: >-
+      Interdisciplinary Centre for Security, Reliability and
+      Trust, University of Luxembourg, Luxembourg
+    email: luca.pennella@uni.lu
+  - given-names: Mark C.
+    family-names: Ballandies
+    affiliation: >-
+      Blockchain and Distributed Ledgers,
+      University of Zurich, Zurich, Switzerland
+    email: markchristopher.ballandies@uzh.ch
+year: 2026
+license: CC-BY-4.0
+abstract: >-
+  Replication dataset for the paper "A Taxonomy of Real-World
+  Asset Tokenization for Blockchain-Based Financial
+  Infrastructure". Contains a 23-attribute taxonomy across five
+  components (Governance, Asset, Token Properties, DLT, Economy),
+  the classification of the 20 largest RWA tokenization protocols
+  by market capitalization, per-assignment source citations, and
+  the DeFiLlama sample-selection snapshot.
+keywords:
+  - real-world assets
+  - asset tokenization
+  - RWA
+  - decentralized finance
+  - tokenized securities
+  - smart contracts
+  - taxonomy
