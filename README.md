@@ -58,7 +58,19 @@ Every attribute→value assignment in the classification is backed by an entry i
 
 ## Citation
 
-If you use this dataset, please cite the paper. A machine-readable citation is provided in [`CITATION.cff`](CITATION.cff). A `.bib` entry will be added once the arXiv identifier is assigned.
+If you use this dataset, please cite the paper using the reference below. A machine-readable citation is also provided in `CITATION.cff` and `citation.bib`.
+```bibtex
+@misc{vella2026rwa,
+  title     = {A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure},
+  author    = {Vella, Giorgio and Pennella, Luca and Ballandies, Mark C.},
+  year      = {2026},
+  eprint    = {2606.08534},
+  archivePrefix = {arXiv},
+  primaryClass  = {econ.GN},
+  url       = {https://arxiv.org/abs/2606.08534}
+}
+```
+
 
 ## License
 
