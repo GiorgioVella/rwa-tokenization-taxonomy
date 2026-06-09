@@ -2,7 +2,7 @@
 
 This repository contains the replication dataset and classification matrix accompanying the paper:
 
-> Vella, G., Pennella, L., & Ballandies, M. C. (2026). *A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure.*
+*A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure.*
 
 The paper develops a system-level taxonomy of Real-World Asset (RWA) tokenization composed of **23 attributes** organized across **five components** — Governance, Asset, Token Properties, Distributed Ledger Technology (DLT), and Economy — and applies it to the **20 largest RWA tokenization protocols** by market capitalization listed on the [DeFiLlama RWA dashboard](https://defillama.com/rwa).
 
@@ -56,29 +56,8 @@ Every attribute→value assignment in the classification is backed by an entry i
 - To audit any single classification decision, filter the `Sources` sheet by `System` and `Attribute`.
 - To reproduce the **sample selection**, see the `DefiLlama Top 100 RWA` sheet.
 
-## Citation
-
-If you use this dataset, please cite the paper using the reference below. A machine-readable citation is also provided in `CITATION.cff` and `citation.bib`.
-```bibtex
-@misc{vella2026rwa,
-  title     = {A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure},
-  author    = {Vella, Giorgio and Pennella, Luca and Ballandies, Mark C.},
-  year      = {2026},
-  eprint    = {2606.08534},
-  archivePrefix = {arXiv},
-  primaryClass  = {econ.GN},
-  url       = {https://arxiv.org/abs/2606.08534}
-}
-```
-
-
 ## License
 
 The contents of this repository are released under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license, consistent with the open-access terms applied to the paper.
 
-## Authors
-
-- **Giorgio Vella** — School of Banking, Finance and Insurance, Università Cattolica del Sacro Cuore, Milano, Italy
-- **Luca Pennella** — Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
-- **Mark C. Ballandies** — Blockchain and Distributed Ledgers, University of Zurich
