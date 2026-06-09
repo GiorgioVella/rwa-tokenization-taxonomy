@@ -6,6 +6,10 @@ message: >-
   If you use this dataset, please cite both the dataset and
   the accompanying paper.
 type: dataset
+identifiers:
+  - type: url
+    value: https://arxiv.org/abs/2606.08534
+    description: arXiv preprint
 authors:
   - given-names: Giorgio
     family-names: Vella
