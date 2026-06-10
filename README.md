@@ -8,7 +8,7 @@ The paper develops a system-level taxonomy of Real-World Asset (RWA) tokenizatio
 
 ## Contents
 
-The dataset is provided as a single workbook, `REPO_Final_RWA_Taxonomy___Classification__20_SYSTEMS.xlsx`, with four sheets:
+The dataset is provided as a single .xlsx workbook, `REPO Final RWA Taxonomy & Classification [20 SYSTEMS]`, with four sheets:
 
 | Sheet | Description | Maps to |
 |---|---|---|
